@@ -16,6 +16,19 @@ body {
     margin-top: 50px;
 }
 
+.optionBox {
+  width: 60%;
+  background: rgb(209, 160, 221);
+  padding: 10px 10px;
+  border-radius: 30px;
+
+}
+
+.optionBox:hover {
+    background: none;
+    border: solid rgb(209, 160, 221) 2px;
+}
+
 button {
 
     background: purple;
